@@ -1,0 +1,8 @@
+package com.tech.microservice.product.repository;
+
+import org.springframework.stereotype.Repository;
+
+@Repository
+public class ProductRepository extends JpaRepository{
+
+}

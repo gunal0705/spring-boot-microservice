@@ -1,0 +1,5 @@
+package com.tech.microservice.product.controller;
+
+public class ProductController {
+
+}
